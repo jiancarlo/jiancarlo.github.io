@@ -1,0 +1,27 @@
+body{
+	background-image: url(footer_lodyas.png);
+}
+
+.wrapper{
+	margin: auto;
+	position: relative;
+	left: 0;
+	right: 0;
+	top: 50%;
+	width: 40%;
+	color: black;
+	text-align: center;
+}
+
+img{
+	border: 2px solid black;	
+}
+
+hr{
+	width: 15%;
+	border-color: black;
+}
+
+a{
+	color: black;	
+}
